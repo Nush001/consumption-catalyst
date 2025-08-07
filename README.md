@@ -33,3 +33,22 @@ Finally, the brand comparison chart between Indian and Korean skincare reveals h
 
 In summary, the dashboard provides strong signals that India is at a turning point. Rising incomes, evolving preferences, and global brand influence are all converging. For investors or decision-makers, the implications are clear: the next wave of growth will come from premiumization, male skincare, and smart innovation. Indian brands have a major opportunity—if they can combine local identity with the performance and excitement global consumers now expect. 
 
+
+<img width="1028" height="443" alt="file1" src="https://github.com/user-attachments/assets/6c68836d-fc6d-4f88-9d32-8956b5919683" />
+
+Arima Forecast model 
+ 
+
+So, looking at this forecast, you might wonder—does India reaching $23 to $24 in BPC per capita spending by 2030 really mean the market is “booming”? And that’s a valid question, because while the growth seems steady, we need to put it into perspective. 
+
+Right now, India’s BPC spending per capita is around $19, and it’s projected to grow to about $23–$24 by 2030. That’s only a $4–$5 increase over six years, which shows moderate growth, but not the kind of explosion we usually associate with a “booming” market. 
+
+Compared to India’s own past, yes—moving from single digits to nearly $20 was impressive. But now, with this relatively smaller increase ahead, it tells us that we’re in the early stages of a larger growth curve, not near market maturity. 
+
+When we compare this to global benchmarks, mature markets like South Korea, Japan, and the U.S. are already seeing $300+ in BPC spending per person. Even if India hits the upper bound of $35 in the forecast’s optimistic range, we’d still be far from those levels. 
+
+That said, $19 to $24 still matters. It places India right around the inflection zone—the same range where countries like China and Korea historically saw their BPC markets accelerate. So, while this isn’t the “boom” phase yet, it signals the beginning of the acceleration phase, where consumer demand broadens and category adoption speeds up. 
+
+For us and other stakeholders, this is a strategic growth window. The Indian market is not yet saturated, and that means there’s huge upside for brands and investors who act now. This is when market share is won, brand loyalty starts forming, and infrastructure gets built. 
+
+To sum it up: India’s BPC per capita hitting $23 by 2030 doesn’t mean we’re in a mature, high-spending market yet. But it does signal that we’re entering a critical early growth phase. The real boom—when we start seeing $50+ per capita—could come in the next decade. This is the time to prepare for that takeoff. 
